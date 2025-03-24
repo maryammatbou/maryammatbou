@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi, I'm Maryam
+
+I am Computer Engineer student and interested in programming and python.
+
+[![Linkedin: maryammatbou](https://img.shields.io/badge/-maryammatbou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryammatbou/)](https://www.linkedin.com/in/maryammatbou/)
+
 
 <!--
 **maryammatbou/maryammatbou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
